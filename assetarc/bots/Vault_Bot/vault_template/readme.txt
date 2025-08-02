@@ -1,0 +1,1 @@
+Welcome to your personal Vault. All documents are confidential and securely packaged.

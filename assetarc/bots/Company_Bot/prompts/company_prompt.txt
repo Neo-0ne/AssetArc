@@ -1,0 +1,6 @@
+Country of Incorporation: {country}
+Company Name: {company_name}
+Shareholders: {shareholders}
+Directors: {directors}
+
+Generate a Memorandum and Articles of Association.

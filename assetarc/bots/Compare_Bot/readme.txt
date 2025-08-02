@@ -1,0 +1,1 @@
+This bot compares two structuring options using a consistent prompt template and returns a side-by-side matrix.

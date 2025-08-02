@@ -1,0 +1,7 @@
+SYSTEM REGENERATION INSTRUCTIONS
+
+    1. Import all TXT and ZIP files into your Notion workspace, WordPress environment, or backend system.
+    2. Use MasterIndex.txt as a reference for bot structure.
+    3. Each bot is self-contained. Refer to the YAML UI, JSON automation, Notion sync, and document output.
+    4. Secure output and CRM sync must be activated per your integration platform (e.g. Notion API, Make.com).
+    5. Use filenames with (2) suffixes for production control.

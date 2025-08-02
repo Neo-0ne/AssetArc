@@ -1,0 +1,7 @@
+Jurisdiction: {jurisdiction}
+Settlor: {settlor}
+Trustee: {trustee}
+Beneficiaries: {beneficiaries}
+Assets to include: {assets}
+
+Draft a Trust Deed accordingly.

@@ -1,0 +1,6 @@
+📋 Risk Assessment Report
+
+🔹 Data Breach: High risk if no encryption or access controls in place.
+🔹 Succession Risk: High without a valid succession plan.
+🔹 Client Concentration: High if one client contributes more than 30% of revenue.
+🔹 Operational Bottlenecks: Moderate if key tasks depend on few individuals.

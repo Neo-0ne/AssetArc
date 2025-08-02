@@ -1,0 +1,4 @@
+Entities requested: {entities}
+Cross-border notes: {cross_border_notes}
+
+Draft a multi-entity structure pack for advisory use.

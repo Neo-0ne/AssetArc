@@ -1,0 +1,23 @@
+
+==== MASTER UNIVERSAL BOT + WEBSITE REBUILD PROMPT ====
+
+This master file contains complete bot logic, UI flow, JSON schema examples, Notion CRM automation, WordPress plugin packaging instructions, and website build instructions based on all prior context.
+
+---
+
+1. BOT SYSTEM: Rebuild all 20 bots with JSON schema, intake logic, UI logic, backend generation, document generation, and cross-linking.
+2. NOTION CRM: Includes all automation, workflows, templates, and database structures.
+3. PLUGIN EXPORT: WordPress plugin bundle with crypto payment, Yoco, secure vault, PDF builder.
+4. WEBSITE REBUILD: Education, Consulting, Structuring, and Compliance site with full integration.
+5. SECURITY: Full POPIA, FICA, cold wallet fallback, and crypto compliance logic.
+6. API + PAYMENT: Manual slot for banking details, API keys, wallet addresses.
+7. FONTS + STYLE: Style drawn from logos; education style taken from PDF/PPT/video assets.
+
+---
+
+To regenerate the bots:
+- Use JSON logic for all key flows (included)
+- Rebuild Notion DB flows
+- Regenerate the plugin from the flows
+- Use included educational data from PDF/PPT/video uploads
+- Link all bot-generated outputs to PDF builder & vault

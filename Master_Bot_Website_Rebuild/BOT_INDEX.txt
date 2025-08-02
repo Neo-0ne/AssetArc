@@ -1,0 +1,16 @@
+List of Exported Bots:
+
+- Trust Setup Bot
+- Company Setup Bot
+- Interactive Assessment Bot
+- IBC Structuring Bot Mauritius
+- IBC Structuring Bot BVI
+- IBC Structuring Bot Seychelles
+- IBC Structuring Bot Cayman
+- IBC Structuring Bot Belize
+- SARS Section 47 Compliance Bot
+- Legal Entity Linking Bot
+- Corporate Structure Design Bot
+- Client Intake FICA Bot
+- Client Quote Generator Bot
+- Legal Drafting Oversight Bot
