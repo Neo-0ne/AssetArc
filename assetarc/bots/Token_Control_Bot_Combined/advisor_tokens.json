@@ -1,0 +1,12 @@
+{
+    "advisors": [
+        {
+            "name": "John Doe",
+            "token": "jd_token_123"
+        },
+        {
+            "name": "Jane Smith",
+            "token": "js_token_456"
+        }
+    ]
+}

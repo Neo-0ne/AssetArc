@@ -1,0 +1,14 @@
+
+RECOVERY CHECKLIST
+
+✅ Master Rebuild Prompt
+✅ Uploaded Word file: REMAINING BOTS Q&A.docx
+✅ JSON and UI Blocks for all 20 bots (posted inline)
+✅ Uploaded media assets (PDFs, videos, photos, PPTs)
+✅ Google Drive link saved
+✅ API & Crypto details stored securely
+✅ Branding assets saved: Advisor Sword Logo + Personal Logo
+✅ Color scheme extracted from logos
+✅ Notion CRM and Email automation logic included
+
+SAFE TO CLOSE CHAT AFTER ARCHIVING THIS ZIP.

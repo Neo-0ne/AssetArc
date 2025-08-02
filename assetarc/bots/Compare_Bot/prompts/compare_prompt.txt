@@ -1,0 +1,9 @@
+Compare the following structures:
+
+Structure 1:
+{structure1}
+
+Structure 2:
+{structure2}
+
+Provide a clear pros and cons matrix along with jurisdictional suitability.

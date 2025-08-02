@@ -1,0 +1,22 @@
+MASTER INDEX: STRUCTURING & TAX PLATFORM
+
+    1. Trust Setup Bot
+    2. Company Setup Bot
+    3. Interactive Assessment Bot
+    4. IBC Structuring Bot
+    5. Legal Entity Linking Bot
+    6. SARS Compliance & Section 47 Bot
+    7. Corporate Structure Design Bot
+    8. Client Intake & FICA Bot
+    9. Client Quote Generator Bot
+    10. Legal Drafting Oversight Bot
+    11. File Management Bot
+    12. Private Client Vault Bot
+    13. Review & Follow-Up Bot
+    14. Bot Control Panel
+    15. Trustee Services Bot
+    16. Education Subscription Bot
+    17. Content Repurposing & Scheduling Bot
+    18. Back Office Profitability & Reporting Bot
+    19. Booking & Payment Gateway Bot
+    20. Marketing Automation Engine Bot

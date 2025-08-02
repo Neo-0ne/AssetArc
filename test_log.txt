@@ -1,0 +1,462 @@
+2025-08-02 12:00:28,435 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:00:28,437 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:21:55,020 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:21:55,020 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:24:39,981 - Bot: Document_Unlock_Bot, Exception: Command '['python', 'assetarc/bots/Document_Unlock_Bot/document_unlock.py']' timed out after 30 seconds
+2025-08-02 12:24:40,023 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:24:40,061 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:24:40,061 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:24:40,368 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:24:40,368 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:24:40,402 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:24:40,402 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:24:40,421 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:24:40,422 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:24:40,893 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:24:40,893 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:27:01,964 - Bot: Document_Unlock_Bot, Exception: Command '['python', 'assetarc/bots/Document_Unlock_Bot/document_unlock.py']' timed out after 30 seconds
+2025-08-02 12:27:01,999 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:27:02,032 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:27:02,032 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:27:02,071 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:27:02,071 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:27:02,356 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:27:02,356 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:27:02,390 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:27:02,390 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:27:02,409 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:27:02,409 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:27:02,811 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:27:02,811 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:29:31,673 - Bot: Custom_Bot, Output:
+2025-08-02 12:29:31,694 - Bot: Unlock_Bot, Output:
+2025-08-02 12:29:31,726 - Bot: Review_Flag_Monitor_Bot, Output:
+2025-08-02 12:29:31,726 - Bot: Review_Flag_Monitor_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot.py", line 19, in <module>
+    with open("flagged_input.txt", "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'flagged_input.txt'
+2025-08-02 12:30:01,760 - Bot: metrics_dashboard_bot, Exception: Command '['python', 'assetarc/bots/metrics_dashboard_bot/metrics_dashboard_bot/metrics_dashboard_bot.py']' timed out after 30 seconds
+2025-08-02 12:30:02,062 - Bot: Document_Unlock_Bot, Output: * Serving Flask app 'document_unlock'
+ * Debug mode: on
+2025-08-02 12:30:02,062 - Bot: Document_Unlock_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:30:02,096 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:30:02,373 - Bot: education_onboarding_bot, Output: * Serving Flask app 'main'
+ * Debug mode: on
+2025-08-02 12:30:02,373 - Bot: education_onboarding_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:30:02,392 - Bot: Trust_Bot, Output:
+2025-08-02 12:30:02,425 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:30:02,425 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:30:02,457 - Bot: Compare_Bot, Output:
+2025-08-02 12:30:02,480 - Bot: Quote_Bot, Output:
+2025-08-02 12:30:02,499 - Bot: Vault_Bot, Output:
+2025-08-02 12:30:02,518 - Bot: Company_Bot, Output:
+2025-08-02 12:30:02,551 - Bot: Residency_Citizenship_Bot, Output:
+2025-08-02 12:30:02,551 - Bot: Residency_Citizenship_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Residency_Citizenship_Bot/residency_citizenship_bot.py", line 23, in <module>
+    with open("inputs.json") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'inputs.json'
+2025-08-02 12:30:02,586 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:30:02,586 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:30:02,860 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:30:02,861 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:30:02,894 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:30:02,894 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:30:02,913 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:30:02,913 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:30:03,362 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:30:03,362 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:32:33,824 - Bot: Suggest_a_Service_Bot_Combined, Output: {
+  "input": "I want to set up a company to manage my crypto and reduce my taxes.",
+  "suggestions": [
+    "Try the Company Formation Bot to register your business.",
+    "Try the Tax Optimization Bot for structuring your tax strategy."
+  ]
+}
+2025-08-02 12:32:33,843 - Bot: Custom_Bot, Output:
+2025-08-02 12:32:33,862 - Bot: Unlock_Bot, Output:
+2025-08-02 12:32:33,895 - Bot: Review_Flag_Monitor_Bot, Output:
+2025-08-02 12:32:33,895 - Bot: Review_Flag_Monitor_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot.py", line 19, in <module>
+    with open("flagged_input.txt", "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'flagged_input.txt'
+2025-08-02 12:33:03,928 - Bot: metrics_dashboard_bot, Exception: Command '['python', 'assetarc/bots/metrics_dashboard_bot/metrics_dashboard_bot/metrics_dashboard_bot.py']' timed out after 30 seconds
+2025-08-02 12:33:04,313 - Bot: Document_Unlock_Bot, Output: * Serving Flask app 'document_unlock'
+ * Debug mode: on
+2025-08-02 12:33:04,313 - Bot: Document_Unlock_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:33:04,347 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:33:04,631 - Bot: education_onboarding_bot, Output: * Serving Flask app 'main'
+ * Debug mode: on
+2025-08-02 12:33:04,631 - Bot: education_onboarding_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:33:04,651 - Bot: Trust_Bot, Output:
+2025-08-02 12:33:04,684 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:33:04,684 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:33:04,716 - Bot: Compare_Bot, Output:
+2025-08-02 12:33:04,775 - Bot: Quote_Bot, Output:
+2025-08-02 12:33:04,793 - Bot: Vault_Bot, Output:
+2025-08-02 12:33:04,813 - Bot: Company_Bot, Output:
+2025-08-02 12:33:04,856 - Bot: Residency_Citizenship_Bot, Output:
+2025-08-02 12:33:04,856 - Bot: Residency_Citizenship_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Residency_Citizenship_Bot/residency_citizenship_bot.py", line 23, in <module>
+    with open("inputs.json") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'inputs.json'
+2025-08-02 12:33:04,891 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:33:04,891 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:33:05,388 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:33:05,388 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:33:05,423 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:33:05,423 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:33:05,442 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:33:05,442 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:33:05,723 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:33:05,723 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:35:33,944 - Bot: Suggest_a_Service_Bot_Combined, Output: {
+  "input": "I want to set up a company to manage my crypto and reduce my taxes.",
+  "suggestions": [
+    "Try the Company Formation Bot to register your business.",
+    "Try the Tax Optimization Bot for structuring your tax strategy."
+  ]
+}
+2025-08-02 12:35:33,963 - Bot: Custom_Bot, Output:
+2025-08-02 12:35:33,982 - Bot: Unlock_Bot, Output:
+2025-08-02 12:35:34,015 - Bot: Review_Flag_Monitor_Bot, Output:
+2025-08-02 12:35:34,016 - Bot: Review_Flag_Monitor_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot.py", line 19, in <module>
+    with open("flagged_input.txt", "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'flagged_input.txt'
+2025-08-02 12:36:04,049 - Bot: metrics_dashboard_bot, Exception: Command '['python', 'assetarc/bots/metrics_dashboard_bot/metrics_dashboard_bot/metrics_dashboard_bot.py']' timed out after 30 seconds
+2025-08-02 12:36:04,333 - Bot: Document_Unlock_Bot, Output: * Serving Flask app 'document_unlock'
+ * Debug mode: on
+2025-08-02 12:36:04,333 - Bot: Document_Unlock_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:36:04,367 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:36:04,651 - Bot: education_onboarding_bot, Output: * Serving Flask app 'main'
+ * Debug mode: on
+2025-08-02 12:36:04,651 - Bot: education_onboarding_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:36:04,671 - Bot: Trust_Bot, Output:
+2025-08-02 12:36:04,704 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:36:04,704 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:36:04,736 - Bot: Compare_Bot, Output:
+2025-08-02 12:36:04,759 - Bot: Quote_Bot, Output:
+2025-08-02 12:36:04,778 - Bot: Vault_Bot, Output:
+2025-08-02 12:36:04,797 - Bot: Company_Bot, Output:
+2025-08-02 12:36:04,831 - Bot: Residency_Citizenship_Bot, Output:
+2025-08-02 12:36:04,831 - Bot: Residency_Citizenship_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Residency_Citizenship_Bot/residency_citizenship_bot.py", line 23, in <module>
+    with open("inputs.json") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'inputs.json'
+2025-08-02 12:36:04,865 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:36:04,865 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:36:05,146 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:36:05,147 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:36:05,180 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:36:05,180 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:36:05,199 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:36:05,200 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:36:05,595 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:36:05,595 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:38:05,121 - Bot: Suggest_a_Service_Bot_Combined, Output: {
+  "input": "I want to set up a company to manage my crypto and reduce my taxes.",
+  "suggestions": [
+    "Try the Company Formation Bot to register your business.",
+    "Try the Tax Optimization Bot for structuring your tax strategy."
+  ]
+}
+2025-08-02 12:38:05,141 - Bot: Custom_Bot, Output:
+2025-08-02 12:38:05,160 - Bot: Unlock_Bot, Output:
+2025-08-02 12:38:05,193 - Bot: Review_Flag_Monitor_Bot, Output:
+2025-08-02 12:38:05,193 - Bot: Review_Flag_Monitor_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot/Review_Flag_Monitor_Bot.py", line 19, in <module>
+    with open("flagged_input.txt", "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'flagged_input.txt'
+2025-08-02 12:38:05,228 - Bot: Risk_Assessment_Bot_Expanded, Output:
+2025-08-02 12:38:05,228 - Bot: Risk_Assessment_Bot_Expanded, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Risk_Assessment_Bot_Expanded/risk_assessment_bot.py", line 27, in <module>
+    with open(input_path, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'inputs/scenario_input.json'
+2025-08-02 12:38:35,261 - Bot: metrics_dashboard_bot, Exception: Command '['python', 'assetarc/bots/metrics_dashboard_bot/metrics_dashboard_bot/metrics_dashboard_bot.py']' timed out after 30 seconds
+2025-08-02 12:38:35,599 - Bot: Document_Unlock_Bot, Output: * Serving Flask app 'document_unlock'
+ * Debug mode: on
+2025-08-02 12:38:35,599 - Bot: Document_Unlock_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:38:35,633 - Bot: calendar_sync_bot, Output: {
+    "user": {
+        "name": "John Doe",
+        "email": "john@example.com"
+    },
+    "available_slots": [
+        {
+            "date": "2025-08-02",
+            "time": "14:00",
+            "status": "booked"
+        },
+        {
+            "date": "2025-08-03",
+            "time": "11:00",
+            "status": "available"
+        }
+    ]
+}
+2025-08-02 12:38:35,917 - Bot: education_onboarding_bot, Output: * Serving Flask app 'main'
+ * Debug mode: on
+2025-08-02 12:38:35,917 - Bot: education_onboarding_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:38:35,939 - Bot: Trust_Bot, Output:
+2025-08-02 12:38:35,973 - Bot: Token_Control_Bot_Combined, Output:
+2025-08-02 12:38:35,973 - Bot: Token_Control_Bot_Combined, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 19, in <module>
+    tokens = load_tokens()
+             ^^^^^^^^^^^^^
+  File "/app/assetarc/bots/Token_Control_Bot_Combined/main.py", line 5, in load_tokens
+    with open(file_path, 'r') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'advisor_tokens.json'
+2025-08-02 12:38:36,010 - Bot: Compare_Bot, Output:
+2025-08-02 12:38:36,035 - Bot: Quote_Bot, Output:
+2025-08-02 12:38:36,054 - Bot: Vault_Bot, Output:
+2025-08-02 12:38:36,074 - Bot: Company_Bot, Output:
+2025-08-02 12:38:36,107 - Bot: Residency_Citizenship_Bot, Output:
+2025-08-02 12:38:36,107 - Bot: Residency_Citizenship_Bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/Residency_Citizenship_Bot/residency_citizenship_bot.py", line 23, in <module>
+    with open("inputs.json") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'inputs.json'
+2025-08-02 12:38:36,144 - Bot: faq_nlp_help_bot, Output:
+2025-08-02 12:38:36,145 - Bot: faq_nlp_help_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/faq_nlp_help_bot/faq_nlp_help_bot.py", line 5, in <module>
+    with open('faqs.json', 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'faqs.json'
+2025-08-02 12:38:36,524 - Bot: Structure_Comparison_Bot, Output: * Serving Flask app 'structure_comparison'
+ * Debug mode: on
+2025-08-02 12:38:36,524 - Bot: Structure_Comparison_Bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+2025-08-02 12:38:36,562 - Bot: lead_magnet_bot, Output: Enter your email:
+2025-08-02 12:38:36,562 - Bot: lead_magnet_bot, Errors: Traceback (most recent call last):
+  File "/app/assetarc/bots/lead_magnet_bot/lead_magnet_bot.py", line 31, in <module>
+    email = input("Enter your email: ")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-08-02 12:38:36,581 - Bot: Newsletter_Logic_Bot, Output:
+2025-08-02 12:38:36,581 - Bot: Newsletter_Logic_Bot, Errors: File "/app/assetarc/bots/Newsletter_Logic_Bot/newsletter_logic.py", line 8
+    footer = "To your legacy,
+             ^
+SyntaxError: unterminated string literal (detected at line 8)
+2025-08-02 12:38:37,071 - Bot: human_review_queue_bot, Output: * Serving Flask app 'human_review_queue_bot'
+ * Debug mode: on
+2025-08-02 12:38:37,071 - Bot: human_review_queue_bot, Errors: Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.

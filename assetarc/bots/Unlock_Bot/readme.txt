@@ -1,0 +1,1 @@
+This bot allows secure access to locked document previews using a master passcode. Documents must be text-based or accessible through wrapper.

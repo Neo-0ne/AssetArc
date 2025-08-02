@@ -1,0 +1,1 @@
+This bot evaluates residency and citizenship options based on destination, funds, and timeline.

@@ -1,0 +1,5 @@
+Structure 1 | Structure 2
+-------------|------------
+Pros:        | Pros:
+Cons:        | Cons:
+Jurisdiction Fit: | Jurisdiction Fit:
