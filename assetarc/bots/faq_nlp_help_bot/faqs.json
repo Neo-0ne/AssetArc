@@ -1,0 +1,12 @@
+[
+    {
+        "question": "I want to set up a trust structure",
+        "answer": "Use the Trust Setup Bot to create a compliant trust deed.",
+        "recommended_bot": "Trust Setup Bot"
+    },
+    {
+        "question": "I want to compare two company structures",
+        "answer": "Use the Structure Comparison Bot to generate a side-by-side breakdown.",
+        "recommended_bot": "Structure Comparison Bot"
+    }
+]

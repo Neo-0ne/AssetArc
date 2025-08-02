@@ -1,0 +1,1 @@
+This bot generates thematic quotes for use in social media or PDF insertions. Input a category to receive a randomized, branded quote.

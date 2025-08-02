@@ -1,0 +1,1 @@
+This bot assembles and zips a full vault for secure delivery to the client, based on selected structure type.

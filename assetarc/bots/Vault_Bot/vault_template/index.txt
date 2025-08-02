@@ -1,0 +1,1 @@
+Vault Index: Lists all documents included for the selected structure.

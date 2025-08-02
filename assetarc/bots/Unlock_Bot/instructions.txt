@@ -1,0 +1,4 @@
+To use:
+1. Place the locked document in the same directory.
+2. Call unlock_document('your_file.txt', 'ASSETARC2025') to view content.
+3. Intended for secure post-review access only.
